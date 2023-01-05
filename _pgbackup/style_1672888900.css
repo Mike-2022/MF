@@ -28,9 +28,3 @@
     h2 {
     }
 }
-
-@media (min-width:992px) {
-    h5 {
-        font-size: 1.6em;
-    }
-}
